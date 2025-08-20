@@ -1,6 +1,6 @@
 
 
-# DASHBOARD ANALÍTICO CENTRAL DE ATENDIMENTO
+# DASHBOARD ANALÍTICO - CENTRAL DE ATENDIMENTO
 
 Este é um Dashboard que exibe o resultado baseado nas métricas de uma Central de Atendimento de uma Universidade Pública. O Dashboard foi desenvolvido utilizando PowerBI
 
