@@ -1,0 +1,17 @@
+# Configurações locais do Power BI (geralmente ignoradas)
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+*.pbix
+*.pbit
+
+# Pastas e arquivos do projeto 'painelcat' que você deseja ignorar
+**/painelcat.Report/
+**/painelcat.SemanticModel/
+painelcat.pbip
+
+# Pastas de dados e testes que você quer ignorar
+dados/
+testes/
+
+# O arquivo de projeto 'painelcat'
+painelcat.pbip
